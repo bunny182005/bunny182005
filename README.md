@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building a full-stack application that integrates a generative AI model to provide a unique user experience.<br><br>👯 I’m looking to collaborate on: Open-source projects related to MERN stack development or creative applications of Machine Learning/Generative AI.<br><br>🤝 I’m looking for help with: Advanced concepts in model optimization and best practices for deploying scalable web applications.<br><br>🌱 I’m currently learning: The intricate details of Generative AI, advanced Data Structures & Algorithms, and the full scope of Full Stack Development.<br><br>💬 Ask me about: React, Node.js, Python, the fundamentals of machine learning, or any interesting tech ideas!<br><br>⚡ Fun fact: I believe the right algorithm can solve almost any problem, both in code and in life.
+🔭 I’m currently working on: Building a full-stack application that integrates a generative AI model to provide a unique user experience.
+
+👯 I’m looking to collaborate on: Open-source projects related to MERN stack development or creative applications of Machine Learning/Generative AI.
+
+🤝 I’m looking for help with: Advanced concepts in model optimization and best practices for deploying scalable web applications.
+
+🌱 I’m currently learning: The intricate details of Generative AI, advanced Data Structures & Algorithms, and the full scope of Full Stack Development.
+
+💬 Ask me about: React, Node.js, Python, the fundamentals of machine learning, or any interesting tech ideas!
+
+⚡ Fun fact: I believe the right algorithm can solve almost any problem, both in code and in life.
 
 
 ## 🌐 Socials:
