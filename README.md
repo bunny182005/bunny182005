@@ -89,33 +89,6 @@ class Karthikeya:
 
 ---
 
-## `> stats --verbose`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bunny182005&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF9C&text_color=ffffff&icon_color=00FF9C" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunny182005&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00FF9C&text_color=ffffff" height="165"/>
-
-</div>
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=bunny182005&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=888888)
-
-</div>
-
----
-
-## `> achievements --display`
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=bunny182005&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ## `> connect --social`
 
 <div align="center">
